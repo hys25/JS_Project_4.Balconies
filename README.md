@@ -8,7 +8,7 @@ One more small project is made in a classic modular style and compiled using **w
 The goal of the project was to train the skills of working with simple functionality on the site: 
 - configure the project's assembly
 - modal windows (*button* "Вызвать замерщика", *link* "Заказать обратный звонок" and "Спросите у нашего специалиста!").
-- tabs, animations of smooth transition between tabs (made by *CSS classes*)
+- tabs
 - forms
 - form - calculator (button "Рассчитать стоимость")
 - timer
