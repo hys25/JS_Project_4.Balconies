@@ -1336,11 +1336,19 @@ textarea:focus {
   }
 
   .header_btn_wrap {
-    margin-top: 1rem;
-    margin-bottom: 2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0rem;
     display: block;
     height: auto;
     text-align: center;
+  }
+
+  .working_hours{
+  margin-top: 1rem;
+  }
+
+  .contact_us {
+    margin-top: 1rem;
   }
 
   .header_btn_wrap_block {

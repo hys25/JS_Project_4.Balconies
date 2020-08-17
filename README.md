@@ -3,7 +3,7 @@
 This site is published at  [https://hys25.github.io/JS_Project_4.Balconies/](https://hys25.github.io/JS_Project_4.Balconies/)
 > JavaScript training
 
-One more small project is made in a classic modular style and compiled using **webpack** and **gulp**.The project includes the **jQuery library** and **slick-carausel** (as a package.json dependency). I worked with the completed layout. 
+One more project made in a classic modular style and compiled using **webpack** and **gulp**.  I worked with the completed layout. 
 
 The goal of the project was to train the skills of working with simple functionality on the site: 
 - configure the project's assembly
