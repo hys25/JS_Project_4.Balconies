@@ -1,6 +1,7 @@
 # Balconies
 
-This site is published at  [https://hys25.github.io/JS_Project_4.Balconies/](https://hys25.github.io/JS_Project_4.Balconies/)
+This site is published at https://js4balconies.netlify.app
+
 > JavaScript training
 
 One more project made in a classic modular style and compiled using **webpack** and **gulp**.  I worked with the completed layout. 
